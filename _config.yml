@@ -1,1 +1,19 @@
-remote_theme: autotraderuk/autotrader-blog-jekyll-theme
+# Site settings
+title: Auto Trader Engineering Blog
+description: > # this means to ignore newlines until "baseurl:"
+  A look at the interesting parts of the engineering behind Auto Trader.
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+
+plugins:
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-redirect-from
+  - jekyll-remote-theme
+  
+  remote_theme: autotraderuk/autotrader-blog-jekyll-theme
