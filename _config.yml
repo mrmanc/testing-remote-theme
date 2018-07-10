@@ -30,6 +30,9 @@ include_repo_ribbon: false
 include_comments: false
 disqus_subdomain: http-engineering-autotrader-co-uk
 
+
+remote_theme: autotraderuk/autotrader-blog-jekyll-theme
+
 # start jekyll-seo-tag configuration
 logo: /assets/images/at-chevron_4096x4096.png
 defaults:
@@ -38,6 +41,3 @@ defaults:
     values:
       image: /assets/images/at-chevron_4096x4096.png
 # end jekyll-seo-tag configuration
-
-
-remote_theme: autotraderuk/autotrader-blog-jekyll-theme
