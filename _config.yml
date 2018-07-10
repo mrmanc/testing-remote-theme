@@ -1,2 +1,3 @@
 remote_theme: mmistakes/minimal-mistakes
-github: fail?
+github:
+  this: fails
