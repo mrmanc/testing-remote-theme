@@ -24,4 +24,4 @@ paginate_path: "/page-:num/"
 google_analytics_tracking_id: UA-20049363-3
 
 githubdotcom:
-  organisation: autotraderuk
+  username: autotraderuk
