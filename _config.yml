@@ -30,7 +30,6 @@ include_repo_ribbon: false
 include_comments: false
 disqus_subdomain: http-engineering-autotrader-co-uk
 
-
 remote_theme: autotraderuk/autotrader-blog-jekyll-theme
 
 # start jekyll-seo-tag configuration
